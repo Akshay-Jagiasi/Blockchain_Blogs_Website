@@ -32,7 +32,7 @@ ________________________________________________________________________________
 
 𝐂𝐨𝐦𝐩𝐨𝐬𝐞𝐏𝐚𝐠𝐞 𝐟𝐨𝐫 𝐂𝐫𝐞𝐚𝐭𝐨𝐫𝐬
 
-![compose page](https://user-images.githubusercontent.com/121112225/210983277-987a1dc8-81de-4ed1-bc8e-f714e5f524c0.png)
+![Compose](https://user-images.githubusercontent.com/121112225/210983673-c19cc729-5d99-4618-bca1-08ef92152264.png)
 
 
 
