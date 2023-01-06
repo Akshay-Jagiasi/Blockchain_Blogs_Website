@@ -14,3 +14,9 @@ ________________________________________________________________________________
 TECHNOLOGIES USED
 
 This project made use of a variety of technologies, including HTML and CSS for designing the user interface, JavaScript for adding interactivity and functionality, EJS for templating and generating dynamic HTML pages, Express for building and customizing the web server, Node.js for the backend, and Mongoose for connecting to and interacting with a MongoDB database.
+
+
+______________________________________________________________________________________________________
+HomePage![Home_page](https://user-images.githubusercontent.com/121112225/210981057-de761eda-c051-47ff-be15-4962336bf7b6.png)
+
+
