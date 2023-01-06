@@ -5,13 +5,13 @@ In this Blockchain_blogs web project, I gained a deeper understanding and famili
 
 
 ___________________________________________________________________________________________________
-ABOUT THE PROJECT 
+𝗔𝗕𝗢𝗨𝗧 𝗧𝗛𝗘 𝗣𝗥𝗢𝗝𝗘𝗖𝗧
 
 This blog website is particularly focused on providing information and insights about the technology of blockchain. The goal of the website is to increase awareness and understanding of blockchain among the general public, and to highlight the potential benefits and profits that can be gained through the use of this innovative technology. By offering a collection of blogs about blockchain, this website aims to educate and inform readers about the various aspects and applications of this transformative technology.
 
 
 ______________________________________________________________________________________________________
-TECHNOLOGIES USED
+𝗧𝗘𝗖𝗛𝗡𝗢𝗟𝗢𝗚𝗜𝗘𝗦 𝗨𝗦𝗘𝗗
 
 This project made use of a variety of technologies, including HTML and CSS for designing the user interface, JavaScript for adding interactivity and functionality, EJS for templating and generating dynamic HTML pages, Express for building and customizing the web server, Node.js for the backend, and Mongoose for connecting to and interacting with a MongoDB database.
 
